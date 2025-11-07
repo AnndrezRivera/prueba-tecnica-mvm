@@ -123,6 +123,8 @@ El código fuente está en `scripts/desafio_5_api.py`.
 * Optimización de tipos de datos y consultas con queries personalizadas.
 * Archivo Power BI: `powerbi/`
 
+![1762534519195](image/README/1762534519195.png)
+
 ### Desafío #2: Dashboard Interactivo
 
 Indicadores clave visualizados:
@@ -175,7 +177,10 @@ README.md       # Documentación general
 4. **Aprovechamiento del Data Lake (Desafío #3):**
    El Blob Storage podría integrarse directamente con herramientas como Power BI o Databricks para análisis a gran escala.
 
-5. **Gestión de Secretos y Configuración:**
+5. **Despliegue de API (Desafío #5):**
+   Para maximizar el aprovechamiento de la API, se debería despleguar en plataformas como Render, lo que permitiría su disponibilidad en línea y facilitaría su integración con otros servicios o aplicaciones.
+
+6. **Gestión de Secretos y Configuración:**
    Se recomienda usar servicios como Azure Key Vault o AWS Secrets Manager.
 
 ---
